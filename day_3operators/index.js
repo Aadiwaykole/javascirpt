@@ -87,7 +87,7 @@
 
 // 1: null is loosely equal to undefined only
 
-// console.log(null==undefined);
+ 
 // console.log(null===undefined);
 // console.log(null==0);
 // console.log(null=="");
