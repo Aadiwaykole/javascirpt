@@ -45,26 +45,26 @@
 // greet();
 
 
-// function createCounter(){
+function createCounter(){
     
-//     let count = 0;
-//     function increment(){
-//         count++;
-//         return count;
-//     }
+    let count = 0;
+    function increment(){
+        count++;
+        return count;
+    }
 
-//     return increment;
-// }
+    return increment;
+}
 
-// // console.log(count);
+console.log(count);
 
-// const counter = createCounter();
-// console.log(counter());
-// console.log(counter());
-// console.log(counter());
+const counter = createCounter();
+console.log(counter());
+console.log(counter());
+console.log(counter());
 
 
-// let balance = 500;
+let balance = 500;
 
 
 
@@ -108,30 +108,12 @@
 
 // function createBankAccount(){
 
- // let balance = 500;
-    
-//     return {
-//     deposit: function(amount){
-//         if(typeof amount==="number" && amount>0){
-//         balance+=amount;
-//         return balance;
-//         }
-//     },
-//     withdraw: function(amount){
-//         if(typeof amount==="number" && amount>0 && balance>=amount){
-//         balance-=amount;
-//         return balance;
-//         }
-//     },
-//     getBalance: function(){
-//         return balance;
-//     }
-    
-//     }
+let balance =500; 
 
- 
-// }
 
+balance = "aditya";
+
+console.log(balance); 
 
 
 
