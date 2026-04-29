@@ -8,3 +8,5 @@ parent.addEventListener('click',(e)=>{
     const body = document.querySelector('body');
     body.style.backgroundColor = child.id;
 });
+
+//change 0s 
