@@ -5,7 +5,7 @@
 // strict mode vs non strict mode 
 
 
-'use strict '
+// 'use strict'
 
 var a = 10 ; b =20 ; 
 
